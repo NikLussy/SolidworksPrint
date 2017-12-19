@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\kks09\CAD\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\publish\|\\kks09\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\publish\|\\kks09\ECAD_E\\KKS_Tools\SWX-KKS\SWX-KKS\publish\|\\kks09\ECAD_E\\KKS_Tools\SWX-KKS\SWX-KKS\publish\setup.exe\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>de-DE</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'RemoteDT|AnyCPU'">
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <RemoteDebugMachine>cad04-w7:4020</RemoteDebugMachine>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Remote CAD02-W7|AnyCPU'">
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <RemoteDebugMachine>cad02-w7:4020</RemoteDebugMachine>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <StartWorkingDirectory>\\Cad02-w7\swx\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

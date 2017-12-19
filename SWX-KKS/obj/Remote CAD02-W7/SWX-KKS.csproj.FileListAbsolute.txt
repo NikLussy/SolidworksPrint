@@ -1,0 +1,20 @@
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\bin\Remote CAD02-W7\SWX-KKS.exe.config
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\Interop.Office.dll
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\Interop.SldWorks.dll
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\Interop.SwConst.dll
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.csproj.ResolveComReference.cache
+\\Cad02-w7\swx\SWX-KKS.exe.config
+\\Cad02-w7\swx\SWX-KKS.exe.manifest
+\\Cad02-w7\swx\SWX-KKS.application
+\\Cad02-w7\swx\SWX-KKS.exe
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.csprojResolveAssemblyReference.cache
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX_KKS.Main.resources
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX_KKS.Properties.Resources.resources
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX_KKS.SWX.Override.resources
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.csproj.GenerateResource.Cache
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.TrustInfo.xml
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.exe.manifest
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.application
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.exe
+\\Cad02-w7\swx\SWX-KKS.pdb
+S:\ECAD_E3\KKS_Tools\SWX-KKS\SWX-KKS\obj\Remote CAD02-W7\SWX-KKS.pdb

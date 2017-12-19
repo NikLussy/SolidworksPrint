@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="SWX_KKS.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <userSettings>
+        <SWX_KKS.Properties.Settings>
+            <setting name="DruckerA1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="DruckerA2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="DruckerA3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="DruckerA4" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Auftrag" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Kunde" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="Speicherort" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="UpdateSettings" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="A4Fit" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="A4Scale" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="A4Size" serializeAs="String">
+                <value>6</value>
+            </setting>
+            <setting name="A4Source" serializeAs="String">
+                <value>-1</value>
+            </setting>
+            <setting name="A3Fit" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="A3Scale" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="A3Size" serializeAs="String">
+                <value>8</value>
+            </setting>
+            <setting name="A3Source" serializeAs="String">
+                <value>-1</value>
+            </setting>
+            <setting name="A2Fit" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="A2Scale" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="A2Size" serializeAs="String">
+                <value>8</value>
+            </setting>
+            <setting name="A2Source" serializeAs="String">
+                <value>-1</value>
+            </setting>
+            <setting name="A1Fit" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="A1Scale" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="A1Size" serializeAs="String">
+                <value>8</value>
+            </setting>
+            <setting name="A1Source" serializeAs="String">
+                <value>-1</value>
+            </setting>
+            <setting name="A4vFit" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="A4vScale" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="A4vSize" serializeAs="String">
+                <value>7</value>
+            </setting>
+            <setting name="A4vSource" serializeAs="String">
+                <value>-1</value>
+            </setting>
+        </SWX_KKS.Properties.Settings>
+    </userSettings>
+</configuration>

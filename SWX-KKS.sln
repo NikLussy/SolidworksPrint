@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWX-KKS", "SWX-KKS\SWX-KKS.csproj", "{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKS", "..\KKS2.0\KKS\KKS.csproj", "{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Remote CAD02-W7|Any CPU = Remote CAD02-W7|Any CPU
+		RemoteDT|Any CPU = RemoteDT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Remote CAD02-W7|Any CPU.ActiveCfg = Remote CAD02-W7|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.Remote CAD02-W7|Any CPU.Build.0 = Remote CAD02-W7|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.RemoteDT|Any CPU.ActiveCfg = RemoteDT|Any CPU
+		{AE38FE81-24FA-47A7-8372-FB2B329CC0F3}.RemoteDT|Any CPU.Build.0 = RemoteDT|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Remote CAD02-W7|Any CPU.ActiveCfg = Remote CAD02-W7|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.Remote CAD02-W7|Any CPU.Build.0 = Remote CAD02-W7|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.RemoteDT|Any CPU.ActiveCfg = RemoteDT|Any CPU
+		{27CCB575-48B5-4A0D-BBB3-C50F28774DA6}.RemoteDT|Any CPU.Build.0 = RemoteDT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
